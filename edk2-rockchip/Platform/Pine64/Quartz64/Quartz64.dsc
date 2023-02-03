@@ -607,7 +607,7 @@
   #
   # Devicetree support
   #
-  # Platform/Rockchip/Rk356x/Drivers/FdtDxe/FdtDxe.inf
+  Platform/Rockchip/Rk356x/Drivers/FdtDxe/FdtDxe.inf
 
   #
   # ACPI Support
